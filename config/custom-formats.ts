@@ -9,14 +9,14 @@ export const Formats: FormatList = [
 	{
 		name: "[Gen 4] Ice Platinum",
 		desc: `beat up`,
-		mod: 'iceplatinum',
+		mod: 'gen4iceplatinum',
 		ruleset: ['Standard'],
 		banlist: ['AG', 'Uber'],
 	},
 	{
 		name: "[Gen 5] White Illusion",
 		desc: `where where are the gen 5 abilities`,
-		mod: 'whiteillusion',
+		mod: 'gen5whiteillusion',
 		ruleset: ['Standard'],
 		banlist: ['AG', 'Uber'],
 	},
