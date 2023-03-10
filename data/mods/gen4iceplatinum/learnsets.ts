@@ -5,4 +5,10 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			pursuit: ["4T"],
 		},
 	},
+	bulbasaur: {
+		inherit: true,
+		learnset: {
+			fireblast: ["4T"],
+		},
+	},
 };
