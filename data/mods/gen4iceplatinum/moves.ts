@@ -1749,6 +1749,13 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		accuracy: 60,
 		pp: 5,
 	},
+	beatup: {
+		inherit: true,
+		type: "Ghost",
+		basePower: 65,
+		accuracy: 100,
+		pp: 15,
+	},
 	fakeout: {
 		inherit: true,
 		type: "Flying",
