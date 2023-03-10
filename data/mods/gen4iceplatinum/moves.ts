@@ -1847,7 +1847,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		accuracy: 90,
 		pp: 40,
 	},
-	smellingsalt: {
+	smellingsalts: {
 		inherit: true,
 		type: "Poison",
 		basePower: 55,
