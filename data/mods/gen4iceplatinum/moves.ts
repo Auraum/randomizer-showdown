@@ -79,7 +79,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	guillotine: {
 		inherit: true,
 		type: "Grass",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 25,
 		pp: 30,
 	},
@@ -219,7 +219,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	horndrill: {
 		inherit: true,
 		type: "Psychic",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 25,
 		pp: 25,
 	},
@@ -338,7 +338,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	sonicboom: {
 		inherit: true,
 		type: "Dark",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 15,
 	},
@@ -464,21 +464,21 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	lowkick: {
 		inherit: true,
 		type: "Fighting",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 20,
 	},
 	counter: {
 		inherit: true,
 		type: "Ground",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 20,
 	},
 	seismictoss: {
 		inherit: true,
 		type: "Fire",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 25,
 	},
@@ -569,7 +569,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	dragonrage: {
 		inherit: true,
 		type: "Fighting",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 85,
 		pp: 20,
 	},
@@ -625,7 +625,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	fissure: {
 		inherit: true,
 		type: "Psychic",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 45,
 		pp: 15,
 	},
@@ -702,7 +702,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	nightshade: {
 		inherit: true,
 		type: "Bug",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 40,
 	},
@@ -814,7 +814,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	bide: {
 		inherit: true,
 		type: "Ground",
-		basePower: 1,
+		basePower: 0,
 		accuracy: true,
 		pp: 15,
 	},
@@ -1038,7 +1038,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	psywave: {
 		inherit: true,
 		type: "Ghost",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 20,
 	},
@@ -1129,7 +1129,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	superfang: {
 		inherit: true,
 		type: "Ice",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 25,
 	},
@@ -1220,7 +1220,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	flail: {
 		inherit: true,
 		type: "Poison",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 15,
 	},
@@ -1248,7 +1248,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	reversal: {
 		inherit: true,
 		type: "Electric",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 90,
 		pp: 15,
 	},
@@ -1507,21 +1507,21 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	return: {
 		inherit: true,
 		type: "Rock",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 5,
 	},
 	present: {
 		inherit: true,
 		type: "Grass",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 35,
 	},
 	frustration: {
 		inherit: true,
 		type: "Water",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 25,
 	},
@@ -1549,7 +1549,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	magnitude: {
 		inherit: true,
 		type: "Poison",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 40,
 	},
@@ -1654,7 +1654,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	hiddenpower: {
 		inherit: true,
 		type: "Fighting",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 20,
 	},
@@ -1696,7 +1696,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	mirrorcoat: {
 		inherit: true,
 		type: "Dragon",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 25,
 	},
@@ -1773,7 +1773,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	spitup: {
 		inherit: true,
 		type: "Fire",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 20,
 	},
@@ -1969,7 +1969,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	endeavor: {
 		inherit: true,
 		type: "Poison",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 15,
 	},
@@ -2291,7 +2291,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	sheercold: {
 		inherit: true,
 		type: "Bug",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 45,
 		pp: 25,
 	},
@@ -2508,7 +2508,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	gyroball: {
 		inherit: true,
 		type: "Electric",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 25,
 	},
@@ -2529,7 +2529,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	naturalgift: {
 		inherit: true,
 		type: "Ghost",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 90,
 		pp: 10,
 	},
@@ -2564,7 +2564,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	metalburst: {
 		inherit: true,
 		type: "Dark",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 20,
 	},
@@ -2606,7 +2606,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	fling: {
 		inherit: true,
 		type: "Psychic",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 20,
 	},
@@ -2620,7 +2620,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	trumpcard: {
 		inherit: true,
 		type: "Ghost",
-		basePower: 1,
+		basePower: 0,
 		accuracy: true,
 		pp: 15,
 	},
@@ -2634,7 +2634,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	wringout: {
 		inherit: true,
 		type: "Bug",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 90,
 		pp: 25,
 	},
@@ -2690,7 +2690,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	punishment: {
 		inherit: true,
 		type: "Ice",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 25,
 	},
@@ -3117,7 +3117,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	grassknot: {
 		inherit: true,
 		type: "Steel",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 95,
 		pp: 20,
 	},
@@ -3222,7 +3222,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	crushgrip: {
 		inherit: true,
 		type: "Normal",
-		basePower: 1,
+		basePower: 0,
 		accuracy: 100,
 		pp: 20,
 	},
