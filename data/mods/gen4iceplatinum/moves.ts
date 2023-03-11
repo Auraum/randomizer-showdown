@@ -944,7 +944,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		accuracy: true,
 		pp: 25,
 	},
-	hijumpkick: {
+	highjumpkick: {
 		inherit: true,
 		type: "Rock",
 		basePower: 60,
