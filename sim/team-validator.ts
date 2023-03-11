@@ -201,6 +201,7 @@ export class TeamValidator {
 	constructor(format: string | Format, dex = Dex) {
 		this.format = dex.formats.get(format);
 		this.dex = dex.forFormat(this.format);
+		console.log(this.dex);
 		this.gen = this.dex.gen;
 		this.ruleTable = this.dex.formats.getRuleTable(this.format);
 
