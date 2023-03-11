@@ -1520,7 +1520,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "OU",
 	},
 	arceus: {
-		tier: "AG",
+		tier: "OU",
 	},
 	arceusbug: {
 	},
