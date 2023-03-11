@@ -1492,7 +1492,6 @@ export class TeamValidator {
 				return `${tierSpecies.name} is a CAP and does not exist in this game.`;
 			}
 			if (tierSpecies.isNonstandard === 'Unobtainable') {
-				console.log(this.dex);
 				return `${tierSpecies.name} is not possible to obtain in this game.`;
 			}
 			if (tierSpecies.isNonstandard === 'Gigantamax') {
