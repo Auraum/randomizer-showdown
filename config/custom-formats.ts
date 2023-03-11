@@ -21,7 +21,7 @@ export const Formats: FormatList = [
 		banlist: ['AG', 'Uber'],
 	},
 	{
-		name: "[Gen 5] White Illusion OU",
+		name: "[Gen 5] White Illusion",
 		desc: `where where are the gen 5 abilities`,
 		mod: 'gen5whiteillusion',
 		ruleset: ['Standard'],
