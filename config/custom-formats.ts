@@ -14,7 +14,7 @@ export const Formats: FormatList = [
 		ruleset: ['Standard'],
 	},
 	{
-		name: "[Gen 4] Ice Platinum OU",
+		name: "[Gen 4] Ice Platinum",
 		desc: `beat up`,
 		mod: 'gen4iceplatinum',
 		ruleset: ['Standard'],
