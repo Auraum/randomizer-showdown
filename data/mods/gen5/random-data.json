@@ -1360,6 +1360,7 @@
         "moves": ["drainpunch", "gunkshot", "haze", "painsplit", "spikes", "toxicspikes"]
     },
     "zoroark": {
+        "level": 82,
         "moves": ["darkpulse", "flamethrower", "focusblast", "nastyplot", "uturn"]
     },
     "cinccino": {
