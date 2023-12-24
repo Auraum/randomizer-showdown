@@ -1507,7 +1507,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	return: {
 		inherit: true,
 		type: "Rock",
-		basePower: 0,
+		basePower: 102,
 		accuracy: 100,
 		pp: 5,
 	},
@@ -1521,7 +1521,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	frustration: {
 		inherit: true,
 		type: "Water",
-		basePower: 0,
+		basePower: 102,
 		accuracy: 95,
 		pp: 25,
 	},
@@ -1653,8 +1653,8 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	hiddenpower: {
 		inherit: true,
-		type: "Fighting",
-		basePower: 0,
+		type: "Normal",
+		basePower: 70,
 		accuracy: 100,
 		pp: 20,
 	},
@@ -1751,7 +1751,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	beatup: {
 		inherit: true,
-		type: "Ghost",
+		type: "???",
 		basePower: 65,
 		accuracy: 100,
 		pp: 15,
@@ -2171,7 +2171,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	weatherball: {
 		inherit: true,
-		type: "Electric",
+		type: "Normal",
 		basePower: 85,
 		accuracy: 95,
 		pp: 15,
@@ -3137,7 +3137,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	judgment: {
 		inherit: true,
-		type: "Flying",
+		type: "Normal",
 		basePower: 95,
 		accuracy: 90,
 		pp: 25,
