@@ -75,7 +75,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		basePower: 10,
 		basePowerCallback(pokemon, target, move) {
 			if (!move.allies?.length) return null;
-			return 10;
+			return move.basePower;
 		},
 		onModifyMove(move, pokemon) {
 			pokemon.addVolatile('beatup');
